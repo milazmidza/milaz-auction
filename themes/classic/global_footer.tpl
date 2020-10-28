@@ -39,7 +39,7 @@
 			"WeBid" linked to www.webidsupport.com. If you must remove thte copyright message pelase make
 			a donation at http://www.webidsupport.com/donate.php to help pay for future developments
 		-->
-		Powered by <a href="http://www.webidsupport.com/">WeBid</a> &copy; 2008 - {L_COPY_YEAR} <a href="http://www.webidsupport.com/">WeBid</a>
+		Powered <a href="https://saidem.business.site/"> BY THE PROGRAMMER</a> &copy;{L_COPY_YEAR}
 	</div>
 </div>
 <script src="{SITEURL}js/jquery.lightbox.js"></script>
